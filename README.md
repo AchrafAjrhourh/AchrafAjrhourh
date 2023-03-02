@@ -18,4 +18,4 @@
 
 </p>
 
-<div style="text-align: center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=AchrafAjrhourh&show_icons=true&theme=radical"/> </div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AchrafAjrhourh&show_icons=true&theme=radical"/>
