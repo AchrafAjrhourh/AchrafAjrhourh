@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NLP, ML, DL and BD**
 
-- 📫 How to reach me **a.ajrhourh@aui.ma**
+- 📫 How to reach me **ajrhourh.achraf@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
