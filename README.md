@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **NLP, ML, DL and BD**
 
-- 👨‍💻 All of my projects are available at [https://ajrhourh.netlify.app](https://ajrhourh.netlify.app)
-
 - 📫 How to reach me **a.ajrhourh@aui.ma**
 
 <h3 align="center">Connect with me:</h3>
